@@ -1,7 +1,7 @@
 # Email Template Builder 📨
 
 A drag-and-drop email template builder built with React. Users can create, customize, and preview email layouts using components like text, images, buttons, dividers, and columns.
-
+[Live demo here](https://devifyx-newsletter-editor.vercel.app/) 
 ---
 
 ## ✨ Features
