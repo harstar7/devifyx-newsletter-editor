@@ -1,12 +1,36 @@
-# React + Vite
+# Email Template Builder 📨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A drag-and-drop email template builder built with React. Users can create, customize, and preview email layouts using components like text, images, buttons, dividers, and columns.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🧩 Drag & drop components onto the canvas
+- ✍️ Rich text editing with font size and color
+- 🖼️ Add images and buttons with customizable props
+- 🧵 Save and reuse templates
+- 🔄 Undo/redo actions
+- 💾 Local storage support
+- 🔍 Live preview panel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/devifyx-newsletter-editor.git
+cd devifyx-newsletter-editor
+```
+### 2. Install dependencies
+```
+npm install
+```
+### 3. Run  the development servor
+```
+npm run dev
+```
+Your app will be running at http://localhost:5173 (if using Vite)
+
